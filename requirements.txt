@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gunicorn
+pandas
+beautifulsoup4
+python-multipart
+lxml
+openpyxl
